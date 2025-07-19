@@ -9,26 +9,29 @@ output:
 ---
 
 <br>
-<img alt="ACL2025logo" src="https://github.com/tina-shahedi/ACL2025/blob/main/assets/ACL2025logo.png" width="200" align="center"/>
+<img alt="ACL2025logo" src="https://raw.githubusercontent.com/tina-shahedi/ACL2025/main/assets/ACL2025logo.png" width="200" align="center"/>
 <br>
 
+<br>
 <center>
   <h1><b>Assessing the Reliability of LLMs Annotations</b></h1>
   <h3><b>in the Context of Demographic Bias and Model Explanation</b></h3>
   <h4>Key Resources & Author Information</h4>
 </center>
 
-<br>
-
 <div style="max-width: 600px; margin: auto;">
+
+---
 
 ### 👤 Authors
 
 #### <a href="https://www.uu.nl/staff/HMohammadi" target="_blank"><b>Hadi Mohammad</b></a>, PhD candidate at Utrecht University
-- <i>Looking for a <b>postdoctoral opportunity in NLP</b>|<a href="https://mohammadi-hadi.github.io/" target="_blank"> <b>Website</b></a>|<a href="https://mohammadi-hadi.github.io/assets/docs/My_CV.pdf" target="_blank"> <b>CV</b></a></i>
+- <i>Looking for a <b>postdoctoral opportunity in NLP</b></i>
+- <i> <a href="https://mohammadi-hadi.github.io/" target="_blank"> <b>Website</b></a>,<a href="https://mohammadi-hadi.github.io/assets/docs/My_CV.pdf" target="_blank"> <b>CV</b></a></i>
 
 #### <a href="https://www.linkedin.com/in/tinashahedii/" target="_blank"><b>Tina Shahedi</b></a>, Junior Researcher at Utrecht University 
-- <i>Looking for a <b>PhD opportunity in NLP</b>|<a href="https://tina-shahedi.github.io/" target="_blank"> <b>Website</b></a>|<a href="https://tina-shahedi.github.io/assets/docs/my_cv.pdf" target="_blank"> <b>CV</b></a></i>
+- <i>Looking for a <b>PhD opportunity in NLP</b></i>
+- <i><a href="https://tina-shahedi.github.io/" target="_blank"> <b>Website</b></a>,<a href="https://tina-shahedi.github.io/assets/docs/my_cv.pdf" target="_blank"> <b>CV</b></a></i>
 
 #### <a href="https://www.uu.nl/medewerkers/PJMosteiroRomero" target="_blank"><b>Pablo Mosteiro</b></a>, Assistant Professor at Utrecht University 
 #### <a href="https://www.uu.nl/staff/MPoesio" target="_blank"><b>Massimo Poesio</b></a>, Professor at Utrecht University 
