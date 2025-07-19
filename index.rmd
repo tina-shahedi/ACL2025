@@ -8,9 +8,13 @@ output:
     css: styles.css  # Optional: for extra custom styling
 ---
 
+<br>
+<img alt="ACL2025logo" src="https://tina-shahedi/tina-shahedi/master/assets/ACL2025logo.png" width="200" align="center"/>
+<br>
+
 <center>
-  <h1>Assessing the Reliability of LLMs Annotations</h1>
-  <h3>in the Context of Demographic Bias and Model Explanation</h3>
+  <h1><b>Assessing the Reliability of LLMs Annotations</b></h1>
+  <h3><b>in the Context of Demographic Bias and Model Explanation</b></h3>
   <h4>Key Resources & Author Information</h4>
 </center>
 
@@ -18,21 +22,26 @@ output:
 
 <div style="max-width: 600px; margin: auto;">
 
+### 👤 Authors
+
+#### <a href="https://www.uu.nl/staff/HMohammadi" target="_blank"><b>Hadi Mohammad</b></a>, PhD candidate at Utrecht University
+- <i>Looking for a <b>postdoctoral opportunity in NLP</b>|<a href="https://mohammadi-hadi.github.io/" target="_blank"> <b>Website</b></a>|<a href="https://mohammadi-hadi.github.io/assets/docs/My_CV.pdf" target="_blank"> <b>CV</b></a></i>
+
+#### <a href="https://www.linkedin.com/in/tinashahedii/" target="_blank"><b>Tina Shahedi</b></a>, Junior Researcher at Utrecht University 
+- <i>Looking for a <b>PhD opportunity in NLP</b>|<a href="https://tina-shahedi.github.io/" target="_blank"> <b>Website</b></a>|<a href="https://tina-shahedi.github.io/assets/docs/my_cv.pdf" target="_blank"> <b>CV</b></a></i>
+
+#### <a href="https://www.uu.nl/medewerkers/PJMosteiroRomero" target="_blank"><b>Pablo Mosteiro</b></a>, Assistant Professor at Utrecht University 
+#### <a href="https://www.uu.nl/staff/MPoesio" target="_blank"><b>Massimo Poesio</b></a>, Professor at Utrecht University 
+#### <a href="https://www.uu.nl/staff/ABagheri" target="_blank"><b>Ayoub Bagheri</b></a>, Associate Professor at Utrecht University 
+#### <a href="https://www.uu.nl/staff/AGiachanou" target="_blank"><b>Anastasia Giachanou</b></a>, Assistant Professor at Utrecht University 
+
+---
+
 ### 📄 Research Paper
 - <a href="https://arxiv.org/abs/2507.13138" target="_blank"><b>Assessing the Reliability of LLMs Annotations (arXiv)</b></a>
 
 ### 💻 GitHub Repository
 - <a href="https://github.com/mohammadi-hadi/Explainable_Annotations_Reliability" target="_blank"><b>Project Code & Data</b></a>
-
----
-
-### 👤 Authors
-
-#### <a href="https://mohammadi-hadi.github.io/" target="_blank">Hadi Mohammadi</a>
-- <i>Looking for a <b>postdoctoral opportunity in NLP</b></i>
-
-#### <a href="https://tina-shahedi.github.io/" target="_blank">Tina Shahedi</a>
-- <i>Looking for a <b>PhD opportunity in NLP</b></i>
 
 </div>
 
