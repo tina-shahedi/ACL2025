@@ -1,1 +1,38 @@
+---
+title: ""
+output:
+  html_document:
+    theme: cosmo
+    highlight: tango
+    toc: false
+    css: styles.css  # Optional: for extra custom styling
+---
+
+<center>
+  <h1>Assessing the Reliability of LLMs Annotations</h1>
+  <h3>in the Context of Demographic Bias and Model Explanation</h3>
+  <h4>Key Resources & Author Information</h4>
+</center>
+
+<br>
+
+<div style="max-width: 600px; margin: auto;">
+
+### 📄 Research Paper
+- <a href="https://arxiv.org/abs/2507.13138" target="_blank"><b>Assessing the Reliability of LLMs Annotations (arXiv)</b></a>
+
+### 💻 GitHub Repository
+- <a href="https://github.com/mohammadi-hadi/Explainable_Annotations_Reliability" target="_blank"><b>Project Code & Data</b></a>
+
+---
+
+### 👤 Authors
+
+#### <a href="https://mohammadi-hadi.github.io/" target="_blank">Hadi Mohammadi</a>
+- <i>Looking for a <b>postdoctoral opportunity in NLP</b></i>
+
+#### <a href="https://tina-shahedi.github.io/" target="_blank">Tina Shahedi</a>
+- <i>Looking for a <b>PhD opportunity in NLP</b></i>
+
+</div>
 
