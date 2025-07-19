@@ -9,7 +9,7 @@ output:
 ---
 
 <br>
-<img alt="ACL2025logo" src="https://tina-shahedi/tina-shahedi/master/assets/ACL2025logo.png" width="200" align="center"/>
+<img alt="ACL2025logo" src="https://github.com/tina-shahedi/ACL2025/blob/main/assets/ACL2025logo.png" width="200" align="center"/>
 <br>
 
 <center>
