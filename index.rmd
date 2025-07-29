@@ -27,7 +27,7 @@ output:
 
 #### <a href="https://www.uu.nl/staff/HMohammadi" target="_blank"><b>Hadi Mohammad</b></a>, PhD candidate at Utrecht University
 - <i>Looking for a <b>postdoctoral opportunity in NLP</b></i>
-- <i> <a href="https://mohammadi-hadi.github.io/" target="_blank"> <b>Website</b></a>,<a href="https://mohammadi-hadi.github.io/assets/docs/My_CV.pdf" target="_blank"> <b>CV</b></a></i>
+- <i> <a href="https://mohammadi-hadi.github.io/" target="_blank"> <b>Website</b></a>,<a href="assets/Hadi_Mohammadi_CV.pdf" target="_blank"> <b>CV</b></a></i>
 
 #### <a href="https://www.linkedin.com/in/tinashahedii/" target="_blank"><b>Tina Shahedi</b></a>, Junior Researcher at Utrecht University 
 - <i>Looking for a <b>PhD opportunity in NLP</b></i>
