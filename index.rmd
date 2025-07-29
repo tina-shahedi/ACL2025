@@ -41,7 +41,7 @@ output:
 ---
 
 ### 📄 Research Paper
-- <a href="https://aclanthology.org/2025.gebnlp-1.9/" target="_blank"><b>Assessing the Reliability of LLMs Annotations (arXiv)</b></a>
+- <a href="https://arxiv.org/abs/2507.13138" target="_blank"><b>Assessing the Reliability of LLMs Annotations (arXiv)</b></a>
 
 ### 💻 GitHub Repository
 - <a href="https://github.com/mohammadi-hadi/Explainable_Annotations_Reliability" target="_blank"><b>Project Code & Data</b></a>
