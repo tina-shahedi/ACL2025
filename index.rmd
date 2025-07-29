@@ -31,7 +31,7 @@ output:
 
 #### <a href="https://www.linkedin.com/in/tinashahedii/" target="_blank"><b>Tina Shahedi</b></a>, Junior Researcher at Utrecht University 
 - <i>Looking for a <b>PhD opportunity in NLP</b></i>
-- <i><a href="https://tina-shahedi.github.io/" target="_blank"> <b>Website</b></a>,<a href="https://tina-shahedi.github.io/assets/docs/my_cv.pdf" target="_blank"> <b>CV</b></a></i>
+- <i><a href="https://tina-shahedi.github.io/" target="_blank"> <b>Website</b></a>,<a href="assets/Tina_Shahedi_CV.pdf" target="_blank"> <b>CV</b></a></i>
 
 #### <a href="https://www.uu.nl/medewerkers/PJMosteiroRomero" target="_blank"><b>Pablo Mosteiro</b></a>, Assistant Professor at Utrecht University 
 #### <a href="https://www.uu.nl/staff/MPoesio" target="_blank"><b>Massimo Poesio</b></a>, Professor at Utrecht University 
